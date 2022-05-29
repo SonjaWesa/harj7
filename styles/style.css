@@ -1,0 +1,16 @@
+/*video*/
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+/*sisältö */
+section.content {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  margin: 4em;
+}
